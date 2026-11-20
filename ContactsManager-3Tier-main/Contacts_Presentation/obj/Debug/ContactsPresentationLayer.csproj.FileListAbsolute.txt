@@ -1,0 +1,17 @@
+C:\Users\HP\OneDrive\Desktop\ContactsManager-3Tier-main\Contacts_Presentation\bin\Debug\Contacts_Presentation.exe.config
+C:\Users\HP\OneDrive\Desktop\ContactsManager-3Tier-main\Contacts_Presentation\bin\Debug\Contacts_Presentation.exe
+C:\Users\HP\OneDrive\Desktop\ContactsManager-3Tier-main\Contacts_Presentation\bin\Debug\Contacts_Presentation.pdb
+C:\Users\HP\OneDrive\Desktop\ContactsManager-3Tier-main\Contacts_Presentation\bin\Debug\ContactsBusinessLayer.dll
+C:\Users\HP\OneDrive\Desktop\ContactsManager-3Tier-main\Contacts_Presentation\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\HP\OneDrive\Desktop\ContactsManager-3Tier-main\Contacts_Presentation\bin\Debug\ContactsBusinessLayer.pdb
+C:\Users\HP\OneDrive\Desktop\ContactsManager-3Tier-main\Contacts_Presentation\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\HP\OneDrive\Desktop\ContactsManager-3Tier-main\Contacts_Presentation\obj\Debug\ContactsPresentationLayer.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\ContactsManager-3Tier-main\Contacts_Presentation\obj\Debug\Contacts_Presentation.AddEditContact.resources
+C:\Users\HP\OneDrive\Desktop\ContactsManager-3Tier-main\Contacts_Presentation\obj\Debug\Contacts_Presentation.ContactManager.resources
+C:\Users\HP\OneDrive\Desktop\ContactsManager-3Tier-main\Contacts_Presentation\obj\Debug\Contacts_Presentation.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\ContactsManager-3Tier-main\Contacts_Presentation\obj\Debug\ContactsPresentationLayer.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\ContactsManager-3Tier-main\Contacts_Presentation\obj\Debug\ContactsPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\ContactsManager-3Tier-main\Contacts_Presentation\obj\Debug\Contacts.3D89028D.Up2Date
+C:\Users\HP\OneDrive\Desktop\ContactsManager-3Tier-main\Contacts_Presentation\obj\Debug\Contacts_Presentation.exe
+C:\Users\HP\OneDrive\Desktop\ContactsManager-3Tier-main\Contacts_Presentation\obj\Debug\Contacts_Presentation.pdb
+C:\Users\HP\OneDrive\Desktop\ContactsManager-3Tier-main\Contacts_Presentation\obj\Debug\Contacts_Presentation.Form1.resources

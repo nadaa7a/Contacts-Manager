@@ -1,0 +1,23 @@
+Contacts Manager - Modern UI Update
+
+Updated files:
+- Contacts_Presentation/Contacts Manager.cs
+- Contacts_Presentation/AddEditContact.cs
+
+What changed:
+- Modern navy/blue visual styling for both forms.
+- Updated DataGridView appearance.
+- Added live contact search (Search button or Enter key).
+- Added Edit, Delete, Refresh actions and total-contact count.
+- Reorganized the Add/Edit form into information and profile-picture sections.
+- Added basic required-field and country checks before saving.
+- Kept the existing Business Layer and Data Access Layer unchanged.
+
+Important:
+The uploaded ZIP's actual presentation project uses namespace Contacts_Presentation,
+class ContactManager, and AddEditContact. This differs from the code pasted in chat
+(namespace ContactsConsoleApp_PresentaionLayer, frmListContact, frmAddEditContact).
+The changes above were made to the project files inside the uploaded ZIP.
+
+Open ContactsApp_3Tier.slnx (or the solution file you normally use), set the
+Contacts_Presentation project as Startup Project, then Build and Run.

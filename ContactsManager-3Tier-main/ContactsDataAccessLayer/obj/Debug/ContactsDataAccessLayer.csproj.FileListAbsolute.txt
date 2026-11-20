@@ -1,0 +1,6 @@
+C:\Users\HP\OneDrive\Desktop\ContactsManager-3Tier-main\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\HP\OneDrive\Desktop\ContactsManager-3Tier-main\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\HP\OneDrive\Desktop\ContactsManager-3Tier-main\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\ContactsManager-3Tier-main\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\ContactsManager-3Tier-main\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.dll
+C:\Users\HP\OneDrive\Desktop\ContactsManager-3Tier-main\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.pdb
